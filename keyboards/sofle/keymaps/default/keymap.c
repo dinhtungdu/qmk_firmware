@@ -61,9 +61,9 @@ LSFT_T(KC_F24), KC_Z,          KC_X,           KC_C,           KC_V,           K
 [_LOWER] = LAYOUT(
   _______, KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,                           KC_F6,   KC_F7,   KC_F8,   KC_F9,    KC_F10,  KC_F11,
   _______, KC_KP_1, KC_KP_2, KC_KP_3, KC_KP_4, KC_KP_5,                         KC_KP_6, KC_KP_7, KC_KP_8, KC_KP_9,  KC_KP_0, KC_F12,
-  KC_CAPS, KC_MINS, KC_EQL,  KC_LBRC, KC_RBRC, KC_BSLS,                         KC_LEFT, KC_DOWN, KC_UP,   KC_RIGHT, _______, _______,
-  KC_F24,  KC_UNDS, KC_PLUS, KC_LCBR, KC_RCBR, KC_PIPE, _______,       _______, _______, _______, _______, _______,  _______, KC_F13,
-                    KC_F23,  KC_F22,  KC_F21,  KC_F20,  KC_F19,        KC_F18,  KC_F17,  KC_F16,  KC_F15,  KC_F14
+  _______, KC_MINS, KC_EQL,  KC_LBRC, KC_RBRC, KC_BSLS,                         KC_LEFT, KC_DOWN, KC_UP,   KC_RIGHT, _______, _______,
+  _______, KC_UNDS, KC_PLUS, KC_LCBR, KC_RCBR, KC_PIPE, _______,       _______, KC_HOME, KC_PGDN, KC_PGUP, KC_END,   _______, _______,
+                    _______, _______, _______, _______, _______,       _______, _______, _______, _______, _______
 ),
 /*
  * COLEMAK
